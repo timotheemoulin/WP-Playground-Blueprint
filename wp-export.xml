@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/6.8.1" created="2025-06-07 10:54" -->
+<!-- generator="WordPress/6.8.1" created="2025-06-01 10:54" -->
 <rss version="2.0"
      xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -103,10 +103,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>1</wp:post_id>
-            <wp:post_date><![CDATA[2025-04-30 17:27:37]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:53:03]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:53:03]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 17:27:37]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 17:27:37]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:53:03]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:53:03]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[open]]></wp:ping_status>
             <wp:post_name><![CDATA[hello-world]]></wp:post_name>
@@ -190,10 +190,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>2</wp:post_id>
-            <wp:post_date><![CDATA[2025-04-30 17:27:37]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:51:05]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:51:05]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 17:27:37]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 17:27:37]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:51:05]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:51:05]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[open]]></wp:ping_status>
             <wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -290,10 +290,10 @@
 ]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>3</wp:post_id>
-            <wp:post_date><![CDATA[2025-04-30 17:27:37]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-04-30 17:27:37]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-04-30 17:27:37]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 17:27:37]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 17:27:37]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 17:27:37]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 17:27:37]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[open]]></wp:ping_status>
             <wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -348,10 +348,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>5</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 06:59:09]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 06:59:09]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:53:40]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:53:40]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 06:59:09]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 06:59:09]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:53:40]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:53:40]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[open]]></wp:ping_status>
             <wp:post_name><![CDATA[life-in-an-office]]></wp:post_name>
@@ -397,10 +397,10 @@
             <content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>6</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 06:56:41]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 06:56:41]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 06:56:41]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 06:56:41]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 06:56:41]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 06:56:41]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 06:56:41]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 06:56:41]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
             <wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
@@ -448,10 +448,10 @@
 <!-- /wp:paragraph -->]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>10</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 07:01:13]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 07:01:13]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:54:02]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:54:02]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 07:01:13]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 07:01:13]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:54:02]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:54:02]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[open]]></wp:ping_status>
             <wp:post_name><![CDATA[a-world-of-constant-adaptation]]></wp:post_name>
@@ -497,10 +497,10 @@
             <content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>13</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 07:03:58]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 07:03:58]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 07:03:58]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 07:03:58]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 07:03:58]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 07:03:58]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 07:03:58]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 07:03:58]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[closed]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
             <wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -525,10 +525,10 @@
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>16</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 10:52:55]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 10:52:55]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:52:55]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:52:55]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 10:52:55]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 10:52:55]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:52:55]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:52:55]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
             <wp:post_name><![CDATA[image-de-cafe]]></wp:post_name>
@@ -559,10 +559,10 @@
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>19</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 10:53:35]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 10:53:35]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:53:35]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:53:35]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 10:53:35]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 10:53:35]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:53:35]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:53:35]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
             <wp:post_name><![CDATA[image-de-bureau]]></wp:post_name>
@@ -593,10 +593,10 @@
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
             <wp:post_id>21</wp:post_id>
-            <wp:post_date><![CDATA[2025-06-07 10:53:59]]></wp:post_date>
-            <wp:post_date_gmt><![CDATA[2025-06-07 10:53:59]]></wp:post_date_gmt>
-            <wp:post_modified><![CDATA[2025-06-07 10:53:59]]></wp:post_modified>
-            <wp:post_modified_gmt><![CDATA[2025-06-07 10:53:59]]></wp:post_modified_gmt>
+            <wp:post_date><![CDATA[2025-06-01 10:53:59]]></wp:post_date>
+            <wp:post_date_gmt><![CDATA[2025-06-01 10:53:59]]></wp:post_date_gmt>
+            <wp:post_modified><![CDATA[2025-06-01 10:53:59]]></wp:post_modified>
+            <wp:post_modified_gmt><![CDATA[2025-06-01 10:53:59]]></wp:post_modified_gmt>
             <wp:comment_status><![CDATA[open]]></wp:comment_status>
             <wp:ping_status><![CDATA[closed]]></wp:ping_status>
             <wp:post_name><![CDATA[image-de-paysage]]></wp:post_name>
