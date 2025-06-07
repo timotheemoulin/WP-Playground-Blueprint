@@ -20,6 +20,14 @@
       "userId": 1
     },
     {
+      "step": "siteOptions",
+      "options": {
+				"blogname": "Tim's Blueprint",
+        "show_on_front": "page",
+        "page_on_front": "2"
+      }
+    },
+    {
       "step": "installTheme",
       "themeData": {
         "resource": "wordpress.org/themes",
