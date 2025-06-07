@@ -15,3 +15,10 @@ A Blueprint is a regular JSON file that follows the schema available at [https:/
 To start a new Playground, just go to [https://playground.wordpress.net/](https://playground.wordpress.net/). A new WP instance will be created just for you.
 
 Cick on the menu icon (top left), there you can create your own JSON config.
+
+## Load a preconfigured Blueprint
+
+To load a preconfigured Blueprint, simply add the `?blueprint-url=` parameter.
+
+Ex. `https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/blueprint-101.json`
+This will load our basic example.
