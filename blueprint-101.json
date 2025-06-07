@@ -20,7 +20,7 @@
       "userId": 1
     },
     {
-      "step": "siteOptions",
+      "step": "setSiteOptions",
       "options": {
 				"blogname": "Tim's Blueprint",
         "show_on_front": "page",
