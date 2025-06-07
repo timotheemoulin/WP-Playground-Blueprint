@@ -7,9 +7,6 @@
   },
   "features": {},
   "login": true,
-  "siteOptions": {
-    "permalink_structure": "/%postname%-%post_id%/"
-  },
   "landingPage": "/wp-admin/edit.php",
   "steps": [
     {
@@ -24,7 +21,8 @@
       "options": {
 				"blogname": "Tim's Blueprint",
         "show_on_front": "page",
-        "page_on_front": "2"
+        "page_on_front": "2",
+        "permalink_structure": "/%postname%-%post_id%/"
       }
     },
     {
