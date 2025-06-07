@@ -31,19 +31,19 @@
     },
     {
       "step": "mkdir",
-      "path": "/wordpress/wp-content/plugins/hellodashboard"
+      "path": "/wordpress/wp-content/plugins"
     },
     {
       "step": "writeFile",
       "data": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/wptrainingteam/hellodashboard/refs/heads/main/hellodashboard.php"
+        "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/cleanup.php"
       },
-      "path": "/wordpress/wp-content/plugins/hellodashboard/plugin.php"
+      "path": "/wordpress/wp-content/plugins/cleanup.php"
     },
     {
       "step": "activatePlugin",
-      "pluginPath": "hellodashboard/plugin.php"
+      "pluginPath": "cleanup.php"
     },
     {
       "step": "importWxr",
