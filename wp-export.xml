@@ -541,12 +541,12 @@
             <wp:attachment_url><![CDATA[https://localhost/wp-content/uploads/2025/06/image-de-cafe.webp]]></wp:attachment_url>
             <wp:postmeta>
                 <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-                <wp:meta_value><![CDATA[2025/04/image-de-cafe.webp]]></wp:meta_value>
+                <wp:meta_value><![CDATA[2025/05/image-de-cafe.webp]]></wp:meta_value>
             </wp:postmeta>
             <wp:postmeta>
                 <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
                 <wp:meta_value>
-                    <![CDATA[a:6:{s:5:"width";i:1536;s:6:"height";i:1024;s:4:"file";s:26:"2025/04/image-de-cafe.webp";s:8:"filesize";i:113378;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"image-de-cafe-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13654;}s:5:"large";a:5:{s:4:"file";s:27:"image-de-cafe-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:74542;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"image-de-cafe-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6028;}s:12:"medium_large";a:5:{s:4:"file";s:26:"image-de-cafe-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:54686;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+                    <![CDATA[a:6:{s:5:"width";i:1536;s:6:"height";i:1024;s:4:"file";s:26:"2025/06/image-de-cafe.webp";s:8:"filesize";i:113378;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"image-de-cafe-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13654;}s:5:"large";a:5:{s:4:"file";s:27:"image-de-cafe-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:74542;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"image-de-cafe-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6028;}s:12:"medium_large";a:5:{s:4:"file";s:26:"image-de-cafe-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:54686;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
             </wp:postmeta>
         </item>
         <item>
