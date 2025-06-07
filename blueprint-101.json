@@ -5,8 +5,9 @@
     "php": "8.4",
     "wp": "6.8"
   },
-  "features": {},
-  "login": true,
+  "features": {
+    "networking": true
+  },  "login": true,
   "siteOptions": {
     "blogname": "Tim's Blueprint",
     "permalink_structure": "/%postname%-%post_id%/"
