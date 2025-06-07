@@ -12,7 +12,7 @@
   "siteOptions": {
     "blogname": "Tim's Blueprint"
   },
-  "landingPage": "/wp-admin/upload.php",
+  "landingPage": "/",
   "steps": [
     {
       "step": "mkdir",
