@@ -9,8 +9,6 @@
   "login": true,
   "siteOptions": {
     "blogname": "Tim's Blueprint",
-    "show_on_front": "page",
-    "page_on_front": "2",
     "permalink_structure": "/%postname%-%post_id%/"
   },
   "landingPage": "/wp-admin/edit.php",
@@ -50,6 +48,13 @@
       "file": {
         "resource": "url",
         "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/wp-export.xml"
+      }
+    },
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "show_on_front": "page",
+        "page_on_front": "2"
       }
     }
   ]
