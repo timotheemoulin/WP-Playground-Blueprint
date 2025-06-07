@@ -517,7 +517,7 @@
         </item>
         <item>
             <title><![CDATA[image de café]]></title>
-            <link>/?attachment_id=16</link>
+            <link>https://playground.wordpress.net/?attachment_id=16</link>
             <pubDate>Sat, 07 Jun 2025 10:52:55 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
             <guid isPermaLink="false">https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/img/image-de-cafe.webp</guid>
@@ -551,7 +551,7 @@
         </item>
         <item>
             <title><![CDATA[image de bureau]]></title>
-            <link>/?attachment_id=19</link>
+            <link>https://playground.wordpress.net/?attachment_id=19</link>
             <pubDate>Sat, 07 Jun 2025 10:53:35 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
             <guid isPermaLink="false">/wp-content/uploads/2025/06/image-de-bureau.webp</guid>
@@ -585,7 +585,7 @@
         </item>
         <item>
             <title><![CDATA[image de paysage]]></title>
-            <link>/?attachment_id=21</link>
+            <link>https://playground.wordpress.net/?attachment_id=21</link>
             <pubDate>Sat, 07 Jun 2025 10:53:59 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
             <guid isPermaLink="false">/wp-content/uploads/2025/06/image-de-paysage.webp</guid>
