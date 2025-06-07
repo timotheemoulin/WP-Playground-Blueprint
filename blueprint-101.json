@@ -9,10 +9,9 @@
     "networking": true
   },  "login": true,
   "siteOptions": {
-    "blogname": "Tim's Blueprint",
-    "permalink_structure": "/%postname%-%post_id%/"
+    "blogname": "Tim's Blueprint"
   },
-  "landingPage": "/wp-admin/edit.php",
+  "landingPage": "/wp-admin/upload.php",
   "steps": [
     {
       "step": "mkdir",
