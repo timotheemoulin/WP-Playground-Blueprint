@@ -22,3 +22,15 @@ To load a preconfigured Blueprint, simply add the `?blueprint-url=` parameter.
 
 Ex. https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/blueprint-101.json
 This will load our basic example.
+
+## Key learning points
+
+- You need to use a custom PHP script to cleanup default WordPress content before importing your XML
+- Playground works nicely to showcase a plugin / theme or any usecsae.
+- Plugins and themes can be fetched from the main wp.org repository
+- Custom plugins can also be fetched from a public repo (you can fetch a .zip file into the `wp-content/plugins` directory)
+- Handling media is a hassle
+ - When importing your xml data, media need to use a public URL for `guid` and `wp:attachment_url`
+ - Hosting media on `https://raw.githubusercontent.com` works well
+ - Media `wp:post_parent` must be set to an ID that you know for sure exists before the import
+ - `link` works well with permalink like `<link>https://playground.wordpress.net/?attachment_id=21</link>` but seems to have issue when a custom permalink structure is used.
