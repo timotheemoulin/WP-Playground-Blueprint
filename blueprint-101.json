@@ -30,34 +30,6 @@
       "pluginPath": "cleanup/cleanup.php"
     },
     {
-      "step": "mkdir",
-      "path": "/wordpress/wp-content/uploads/2025/06"
-    },
-    {
-      "step": "writeFile",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/img/image-de-bureau.webp"
-      },
-      "path": "/wordpress/wp-content/uploads/2025/06/image-de-bureau.webp"
-    },
-    {
-      "step": "writeFile",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/img/image-de-cafe.webp"
-      },
-      "path": "/wordpress/wp-content/uploads/2025/06/image-de-cafe.webp"
-    },
-    {
-      "step": "writeFile",
-      "data": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/img/image-de-paysage.webp"
-      },
-      "path": "/wordpress/wp-content/uploads/2025/06/image-de-paysage.webp"
-    },
-    {
       "step": "importWxr",
       "file": {
         "resource": "url",
