@@ -520,7 +520,7 @@
             <link>https://playground.wordpress.net/scope:ambitious-abandoned-park/hello-world-1/image-de-cafe/</link>
             <pubDate>Sat, 07 Jun 2025 10:52:55 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
-            <guid isPermaLink="false">https://localhost/wp-content/uploads/2025/06/image-de-cafe.webp</guid>
+            <guid isPermaLink="false">http://localhost/wp-content/uploads/2025/06/image-de-cafe.webp</guid>
             <description></description>
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -538,7 +538,7 @@
             <wp:post_type><![CDATA[attachment]]></wp:post_type>
             <wp:post_password><![CDATA[]]></wp:post_password>
             <wp:is_sticky>0</wp:is_sticky>
-            <wp:attachment_url><![CDATA[https://localhost/wp-content/uploads/2025/06/image-de-cafe.webp]]></wp:attachment_url>
+            <wp:attachment_url><![CDATA[http://localhost/wp-content/uploads/2025/06/image-de-cafe.webp]]></wp:attachment_url>
             <wp:postmeta>
                 <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
                 <wp:meta_value><![CDATA[2025/06/image-de-cafe.webp]]></wp:meta_value>
@@ -554,7 +554,7 @@
             <link>https://playground.wordpress.net/scope:ambitious-abandoned-park/life-in-an-office-5/image-de-bureau/</link>
             <pubDate>Sat, 07 Jun 2025 10:53:35 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
-            <guid isPermaLink="false">https://localhost/wp-content/uploads/2025/06/image-de-bureau.webp</guid>
+            <guid isPermaLink="false">http://localhost/wp-content/uploads/2025/06/image-de-bureau.webp</guid>
             <description></description>
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -572,7 +572,7 @@
             <wp:post_type><![CDATA[attachment]]></wp:post_type>
             <wp:post_password><![CDATA[]]></wp:post_password>
             <wp:is_sticky>0</wp:is_sticky>
-            <wp:attachment_url><![CDATA[https://localhost/wp-content/uploads/2025/06/image-de-bureau.webp]]></wp:attachment_url>
+            <wp:attachment_url><![CDATA[http://localhost/wp-content/uploads/2025/06/image-de-bureau.webp]]></wp:attachment_url>
             <wp:postmeta>
                 <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
                 <wp:meta_value><![CDATA[2025/06/image-de-bureau.webp]]></wp:meta_value>
@@ -588,7 +588,7 @@
             <link>https://playground.wordpress.net/scope:ambitious-abandoned-park/a-world-of-constant-adaptation-10/image-de-paysage/</link>
             <pubDate>Sat, 07 Jun 2025 10:53:59 +0000</pubDate>
             <dc:creator><![CDATA[admin]]></dc:creator>
-            <guid isPermaLink="false">https://localhost/wp-content/uploads/2025/06/image-de-paysage.webp</guid>
+            <guid isPermaLink="false">http://localhost/wp-content/uploads/2025/06/image-de-paysage.webp</guid>
             <description></description>
             <content:encoded><![CDATA[]]></content:encoded>
             <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -606,7 +606,7 @@
             <wp:post_type><![CDATA[attachment]]></wp:post_type>
             <wp:post_password><![CDATA[]]></wp:post_password>
             <wp:is_sticky>0</wp:is_sticky>
-            <wp:attachment_url><![CDATA[https://localhost/wp-content/uploads/2025/06/image-de-paysage.webp]]></wp:attachment_url>
+            <wp:attachment_url><![CDATA[http://localhost/wp-content/uploads/2025/06/image-de-paysage.webp]]></wp:attachment_url>
             <wp:postmeta>
                 <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
                 <wp:meta_value><![CDATA[2025/06/image-de-paysage.webp]]></wp:meta_value>
