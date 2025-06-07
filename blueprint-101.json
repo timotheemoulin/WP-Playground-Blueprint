@@ -7,7 +7,8 @@
   },
   "features": {
     "networking": true
-  },  "login": true,
+  },  
+  "login": true,
   "siteOptions": {
     "blogname": "Tim's Blueprint"
   },
