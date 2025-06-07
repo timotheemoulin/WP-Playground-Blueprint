@@ -41,6 +41,13 @@
     {
       "step": "activatePlugin",
       "pluginPath": "hellodashboard/plugin.php"
+    },
+    {
+      "step": "importWxr",
+      "file": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/timotheemoulin/WP-Playground-Blueprint/refs/heads/master/wp-export.xml"
+      }
     }
   ]
 }
