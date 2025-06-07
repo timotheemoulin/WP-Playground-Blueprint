@@ -10,7 +10,7 @@
   "siteOptions": {
     "permalink_structure": "/%postname%-%post_id%/"
   },
-  "landingPage": "/wp-admin/?welcome=0",
+  "landingPage": "/wp-admin/edit.php",
   "steps": [
     {
       "step": "updateUserMeta",
